@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Map_fix</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="odsay_key">ue0+OgwXcKeh0Fn0jkSYPZaPil3nPEN3CM59hD0sYr8</string>
+</resources>
